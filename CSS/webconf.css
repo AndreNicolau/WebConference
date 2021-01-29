@@ -26,11 +26,7 @@ h4,
 h5,
 h6 {
     font-weight: 700;
-    font-family: 'Montserrat',
-        'Helvetica Neue',
-        Helvetica,
-        Arial,
-        sans-serif;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 section {
@@ -105,6 +101,7 @@ img::-moz-selection {
 }
 
 /****** MAIN NAV ******/
+
 #mainNav {
     background-color: #212529;
 }
@@ -232,11 +229,14 @@ header.masthead .intro-text .intro-heading {
 }
 
 /****** ABOUT ******/
+
 .topic-heading {
     margin: 15px 0;
 }
 
-/****** Speakers ******/
+
+/****** SPEAKERS ******/
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
@@ -257,3 +257,6 @@ header.masthead .intro-text .intro-heading {
 .team-member p {
     margin-top: 0;
 }
+
+
+/****** CONTACTS ******/
